@@ -6,7 +6,7 @@
 </script>
 
 <NavBar />
-<body class="bg-gray-800">
+<body class="bg-gray-900">
   <div class="w-auto pt-10 mb-10">
     <p class="my-14 text-5xl font-bold text-center bg-gradient-to-r from-blue-500 to-red-500 bg-clip-text text-transparent"> A World of Resources is Just a Few Clicks Away  </p>
     <SearchBar />
